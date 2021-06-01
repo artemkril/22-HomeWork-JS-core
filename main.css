@@ -1,0 +1,23 @@
+.elem{
+    width: 70px;
+    height: 70px;
+    /* border: 8px solid #000; */
+    border-radius: 50%;
+    top: 20px;
+    position:absolute;
+}
+.element{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    background-color: hotpink;
+    top: 20px;
+    position:absolute;
+    display: block;
+}
+.plus{
+    left: 50%;
+    width: 200px;
+    height: 200px;
+
+}
